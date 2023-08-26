@@ -5,7 +5,7 @@ Criar um banco de dados de uma Oficina de Veículos.
 
 ### Diretrizes Gerais
 - Mapeamento do esquema ER para Relacional.
-- Definiçãp do script SQL para criação do esquema de banco de dados.
+- Definição do script SQL para criação do esquema de banco de dados.
 - Persistência de dados para testes
 - Recuperação de informações com queries SQL
 
